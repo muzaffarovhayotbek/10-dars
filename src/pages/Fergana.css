@@ -1,0 +1,28 @@
+.fergana {
+  width: 600px;
+  margin-top: 20px;
+  width: 400px;
+  background: white;
+  padding: 30px 20px;
+  border-radius: 12px;
+  text-align: center;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.fergana-name {
+  text-align: center;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+
+
+.fergana-center{
+  font-size: 18px;
+}
+
+.fergana-center strong{
+  font-size: 100p;
+  
+}

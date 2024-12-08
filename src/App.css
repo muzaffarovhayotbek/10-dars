@@ -1,0 +1,37 @@
+.main {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 18px;
+}
+
+.nav-list-link {
+  cursor: pointer;
+  transition: all 0.5s;
+  color: grey;
+  text-decoration: none;
+}
+
+.nav-list-link:hover {
+  color: black;
+}
+
+.nav-list-link:focus {
+  outline: 2px dashed #555;
+  outline-offset: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .nav-list-link {
+    color: lightgrey;
+  }
+
+  .nav-list-link:hover {
+    color: white;
+  }
+}

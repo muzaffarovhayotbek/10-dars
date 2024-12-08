@@ -1,0 +1,179 @@
+{
+  "viloyatlar": [
+    {
+      "nomi": "Andijon",
+      "markazi": "Andijon shahri",
+      "maydoni": "4300 km²",
+      "aholisi": "3100000",
+      "iqtisodiy_sohalar": [
+        "qishloq xo'jaligi",
+        "to'qimachilik",
+        "meva-sabzavot yetishtirish"
+      ],
+      "asosiy_daryolar": [
+        "Qoradaryo",
+        "Soʻx"
+      ]
+    },
+    {
+      "nomi": "Buxoro",
+      "markazi": "Buxoro shahri",
+      "maydoni": "39400 km²",
+      "aholisi": "1912000",
+      "iqtisodiy_sohalar": [
+        "neft-gaz sanoati",
+        "to'qimachilik",
+        "gilamchilik"
+      ],
+      "asosiy_daryolar": [
+        "Zarafshon"
+      ]
+    },
+    {
+      "nomi": "Farg‘ona",
+      "markazi": "Farg‘ona shahri",
+      "maydoni": "6800 km²",
+      "aholisi": "3800000",
+      "iqtisodiy_sohalar": [
+        "qishloq xo'jaligi",
+        "kimyo sanoati",
+        "energetika"
+      ],
+      "asosiy_daryolar": [
+        "Sirdaryo",
+        "Soʻx"
+      ]
+    },
+    {
+      "nomi": "Jizzax",
+      "markazi": "Jizzax shahri",
+      "maydoni": "20500 km²",
+      "aholisi": "1393000",
+      "iqtisodiy_sohalar": [
+        "paxta yetishtirish",
+        "don mahsulotlari",
+        "sunʼiy suv omborlari"
+      ],
+      "asosiy_daryolar": [
+        "Sangzor",
+        "Zarafshon"
+      ]
+    },
+    {
+      "nomi": "Qashqadaryo",
+      "markazi": "Qarshi shahri",
+      "maydoni": "28400 km²",
+      "aholisi": "3250000",
+      "iqtisodiy_sohalar": [
+        "neft-gaz sanoati",
+        "paxta yetishtirish",
+        "chorvachilik"
+      ],
+      "asosiy_daryolar": [
+        "Qashqadaryo",
+        "Amudaryo"
+      ]
+    },
+    {
+      "nomi": "Xorazm",
+      "markazi": "Urganch shahri",
+      "maydoni": "6300 km²",
+      "aholisi": "1863000",
+      "iqtisodiy_sohalar": [
+        "qishloq xo'jaligi",
+        "hunarmandchilik",
+        "sayyohlik"
+      ],
+      "asosiy_daryolar": [
+        "Amudaryo"
+      ]
+    },
+    {
+      "nomi": "Namangan",
+      "markazi": "Namangan shahri",
+      "maydoni": "7900 km²",
+      "aholisi": "2750000",
+      "iqtisodiy_sohalar": [
+        "qishloq xo'jaligi",
+        "to'qimachilik",
+        "elektr uskunalar ishlab chiqarish"
+      ],
+      "asosiy_daryolar": [
+        "Qoradaryo",
+        "Naryn"
+      ]
+    },
+    {
+      "nomi": "Navoiy",
+      "markazi": "Navoiy shahri",
+      "maydoni": "110800 km²",
+      "aholisi": "1000000",
+      "iqtisodiy_sohalar": [
+        "oltin qazib olish",
+        "kimyo sanoati",
+        "energetika"
+      ],
+      "asosiy_daryolar": [
+        "Zarafshon"
+      ]
+    },
+    {
+      "nomi": "Samarqand",
+      "markazi": "Samarqand shahri",
+      "maydoni": "16400 km²",
+      "aholisi": "4000000",
+      "iqtisodiy_sohalar": [
+        "qishloq xo'jaligi",
+        "to'qimachilik",
+        "sayyohlik"
+      ],
+      "asosiy_daryolar": [
+        "Zarafshon"
+      ]
+    },
+    {
+      "nomi": "Surxondaryo",
+      "markazi": "Termiz shahri",
+      "maydoni": "20800 km²",
+      "aholisi": "2800000",
+      "iqtisodiy_sohalar": [
+        "paxta yetishtirish",
+        "meva-sabzavot yetishtirish",
+        "neft sanoati"
+      ],
+      "asosiy_daryolar": [
+        "Amudaryo",
+        "Surxondaryo"
+      ]
+    },
+    {
+      "nomi": "Sirdaryo",
+      "markazi": "Guliston shahri",
+      "maydoni": "5100 km²",
+      "aholisi": "900000",
+      "iqtisodiy_sohalar": [
+        "paxta yetishtirish",
+        "energetika",
+        "chorvachilik"
+      ],
+      "asosiy_daryolar": [
+        "Sirdaryo"
+      ]
+    },
+    {
+      "nomi": "Toshkent",
+      "markazi": "Toshkent shahri",
+      "maydoni": "15300 km²",
+      "aholisi": "6000000",
+      "iqtisodiy_sohalar": [
+        "sanoat",
+        "savdo",
+        "transport va logistika"
+      ],
+      "asosiy_daryolar": [
+        "Chirchiq",
+        "Qorasuv"
+      ]
+    }
+  ]
+}
