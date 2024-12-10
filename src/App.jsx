@@ -11,13 +11,13 @@ import Namangan from './pages/Namangan';
 import Navoiy from './pages/Navoiy';
 import Samarqand from './pages/Samarqand';
 import Surxondaryo from './pages/Surxondaryo';
-import Sirdaryo from './pages/Sirdaryo'; // Make sure this file exists
+import Sirdaryo from './pages/Sirdaryo';
 import Toshkent from './pages/Toshkent';
 
 function App() {
   return (
-    <div>
-      <main className="main">
+    <div className="container mx-auto">
+      <main className="mt-10 mb-10">
         <div className="container main__container">
           <div className="nav-list">
             <NavLink className="nav-list-link" to="/andijon">

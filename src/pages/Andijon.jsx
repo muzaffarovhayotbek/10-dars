@@ -1,20 +1,20 @@
 import React, { useState, useEffect } from 'react';
-import data from '../province.json'; 
+import data from '../province.json';
 
 function Andijan() {
-  const [andijon, setAndijon] = useState(null); 
+  const [andijon, setAndijon] = useState(null);
 
   useEffect(() => {
-    const andijonData = data.viloyatlar.find(item => item.nomi === "Andijon");
-    setAndijon(andijonData); 
+    const andijonData = data.viloyatlar.find((item) => item.nomi === 'Andijon');
+    setAndijon(andijonData);
   }, []);
 
   return (
-    <div>
+    <div className="container mx-auto">
       {andijon ? (
-        <div>
-          <h2>{andijon.nomi}</h2>
-          <p>Markazi: {andijon.markazi}</p>
+        <div className='border-rounded'>
+          <h2 className="text-meduim text-white">{andijon.nomi}</h2>
+          <p className='font-medium'>Markazi: {andijon.markazi}</p>
           <p>Maydoni: {andijon.maydoni}</p>
           <p>Aholisi: {andijon.aholisi}</p>
           <h3>Iqtisodiy sohalar:</h3>
